@@ -1,0 +1,7 @@
+Task 1 — Wireframing & Low-Fidelity Design
+
+Designed low-fidelity wireframes for a Food Delivery Mobile App as part of my UI/UX internship at CodeAlpha.
+The project covers 8 complete screens — Splash, Login, Home, Search, Restaurant Details, Cart, Payment, and Profile — focusing on user flow, navigation layout, and screen structure. Built using core UX principles: usability, consistency, and user-centered design. 
+Tools: ReportLab (Python) | Color Palette: Orange, White, Black | Typography: Poppins
+
+#UIUXDesign #Wireframing #LowFidelity #FoodDeliveryApp #CodeAlpha #Internship #UXDesign #MobileUI
